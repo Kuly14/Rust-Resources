@@ -13,7 +13,7 @@
 
 **7. Rustlings** - https://github.com/rust-lang/rustlings Small Rust exercises, a pretty good resource
 
-••8. Exercism Rust Track** - https://exercism.org/tracks/rust I haven’t used this one but heard many good things about it.
+**8. Exercism Rust Track** - https://exercism.org/tracks/rust I haven’t used this one but heard many good things about it.
 
 **9. Advent Of Code Solutions by Timvisee** - https://github.com/timvisee/advent-of-code-2021 To even understand these solutions, you have to know how iterators work in Rust. It is a lot of work to go through the solutions, but it is definitely worth it.
 
@@ -28,6 +28,3 @@
 **14. The Rust Reference** - https://doc.rust-lang.org/reference/ Informal explanation of the language. If you wanted to build a new compiler for Rust, you would use this book to understand how things work.
 
 **15. Learning Rust With Too Many Linked Lists** - https://rust-unofficial.github.io/too-many-lists/ Linked lists in Rust are much harder to build than in other languages. It is mostly because of the memory model, you can’t have a list that is of unknown size. So we have to use smart pointers like Box to get around that. This resource is a bit outdated, but a lot of the concepts are still true.
-
-
-
