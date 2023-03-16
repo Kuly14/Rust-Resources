@@ -32,3 +32,5 @@
 **16. Rust API Guidelines** - https://rust-lang.github.io/api-guidelines A must read when writing a rust code.
 
 **17. Understanding Rust Lifetimes - Maksym Zavershynskyi** - https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa One of the best resources to understand Rust Lifetimes
+
+**18. Writing an OS in Rust - Philipp Oppermann** - https://os.phil-opp.com/ Blog post series that will show you how to build minimal OS in Rust.
