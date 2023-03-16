@@ -30,3 +30,5 @@
 **15. Learning Rust With Too Many Linked Lists** - https://rust-unofficial.github.io/too-many-lists/ Linked lists in Rust are much harder to build than in other languages. It is mostly because of the memory model, you can’t have a list that is of unknown size. So we have to use smart pointers like Box to get around that. This resource is a bit outdated, but a lot of the concepts are still true.
 
 **16. Rust API Guidelines** - https://rust-lang.github.io/api-guidelines A must read when writing a rust code.
+
+**17. Understanding Rust Lifetimes - Maksym Zavershynskyi** - https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa One of the best resources to understand Rust Lifetimes
